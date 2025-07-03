@@ -8,7 +8,7 @@ Helpful tools to improve your resume and job application success.
 
 Use this tool to enhance your resume with relevant keywords, improve formatting, and get an estimated ATS (Applicant Tracking System) score.
 
-🔗 [Launch Resume Optimizer](https://script.google.com/macros/s/AKfycbySzt1Y9fHvFu7-7AMLK7LGUiKypO_xR2-xdnwcY4jO1PRdaI-cgSkl3fTmOPTIfqlFnw/exec)
+🔗 [Launch Resume Optimizer](https://script.google.com/macros/s/AKfycbybHoYKm3Ezspr9Dp4Hk084nMHs_awxcKFPTOPmg1bK9CAzsHpTXH6yr7l8TfxcvUNl/exec)
 
 ---
 
